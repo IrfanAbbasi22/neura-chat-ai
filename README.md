@@ -1,4 +1,4 @@
-# 🧠 NeuraChat - AI Assistant
+# NeuraChat - AI Assistant
 
 A modern, premium AI chat application built with Next.js featuring a stunning glassmorphism design. Experience seamless AI conversations with a beautiful, responsive interface.
 

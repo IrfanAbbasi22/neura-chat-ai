@@ -1,6 +1,6 @@
 # 🧠 NeuraChat - AI Assistant
 
-A modern, premium AI chat application built with Next.js featuring a stunning glassmorphism design inspired by iOS 17-18 aesthetics. Experience seamless AI conversations with a beautiful, responsive interface.
+A modern, premium AI chat application built with Next.js featuring a stunning glassmorphism design. Experience seamless AI conversations with a beautiful, responsive interface.
 
 ![NeuraChat Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Next.js](https://img.shields.io/badge/Next.js-15-black) ![React](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-v4-38bdf8)
 
@@ -24,7 +24,7 @@ A modern, premium AI chat application built with Next.js featuring a stunning gl
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/IrfanAbbasi22/neura-chat-ai.git
    cd neurachat
    ```
 
